@@ -1,7 +1,27 @@
 # Orionis - Breast-Imaging-AI-Workbench
-> A Streamlit-based AI workbench for medical imaging with a focus on breast imaging. Upload your own models and run object detection, segmentation, and classification on images. Also includes a tabular module (e.g., Wisconsin Diagnostic dataset) for quick ML baselines.
+
+> **EN:**  
+> A Streamlit-based **AI workbench** for medical imaging, with a primary focus on **breast imaging**.  
+> Upload and manage your **own deep learning models** (YOLO, Keras, PyTorch, ONNX) and run **object detection, segmentation, and classification** across multiple imaging modalities.  
+> Store and track **patient/study metadata**, run inferences, and automatically generate **case reports**.  
+> Reports can be further **polished with Gemini** for clinician-friendly wording and professional formatting.  
+> The system also includes a **tabular module** (e.g., **Wisconsin Diagnostic dataset**) for fast baseline experiments on structured data.  
+> Designed as a **proof-of-concept** to demonstrate how a modular AI workbench could look, extensible to other imaging types (Ultrasound, MRI, PET, Pathology).
 
 ⚠️ **Medical Disclaimer:** This is a proof-of-concept research tool. Not a medical device. Do not use for clinical decision-making.
+
+---
+
+> **TR:**  
+> Streamlit tabanlı bir **AI çalışma ortamıdır** ve öncelikli olarak **meme görüntülemesi (mamografi)** odaklıdır.  
+> **Kendi derin öğrenme modellerinizi** (YOLO, Keras, PyTorch, ONNX) yükleyebilir; **mamografi, ultrason, MRI, PET, patoloji** gibi farklı modalitelerde **tespit (object detection)**, **segmentasyon** ve **sınıflandırma** çalıştırabilirsiniz.  
+> Ayrıca **tabular veri modülü** (örn. **Wisconsin Diagnostic dataset**) ile yapılandırılmış veriler üzerinde hızlı **ML denemeleri** yapılmasına olanak sağlar.  
+> Hasta ve çalışma (case) bilgilerini saklayabilir, sonuçları kaydedebilir ve otomatik olarak **raporlar üretebilirsiniz**.  
+> Raporlar ayrıca **Gemini** entegrasyonu sayesinde daha **okunaklı ve klinisyen-dostu** bir şekilde cilalanabilir.  
+> Bu uygulama yalnızca bir **konsept kanıtı (Proof-of-Concept)** olarak geliştirilmiştir ve zamanla daha fazla modalite ile genişletilebilir.
+
+
+⚠️ **Tıbbi Uyarı:** Bu proje **tıbbi cihaz değildir**, gerçek klinik karar desteği için kullanılmamalıdır.
 
 ---
 
@@ -14,7 +34,6 @@
 
 ### Report Example
 ![Report Example](screenshots/6.png)
-
 
 ---
 
