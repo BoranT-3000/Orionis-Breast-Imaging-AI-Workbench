@@ -33,10 +33,10 @@ Inference:
 
 ## **Directory Layout (auto-created on first run)**
 
-breast_ai_workbench/
-├─ db/ # SQLite DB
-├─ img/ # Uploaded images
-└─ models/ # Uploaded model files
+### breast_ai_workbench/
+##### ├─ db/ # SQLite DB
+##### ├─ img/ # Uploaded images
+##### └─ models/ # Uploaded model files
 
 ---
 
