@@ -5,6 +5,19 @@
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/1.png)
+
+![Model Registry](screenshots/4.png)
+
+### Report Example
+![Report Example](screenshots/6.png)
+
+
+---
+
 ## Key Features
 
 - **Model Registry:** Add YOLO / Keras / PyTorch / ONNX models with metadata.
@@ -77,4 +90,6 @@ pip install -r requirements.txt
 
 # run
 streamlit run app.py
+
+
 
